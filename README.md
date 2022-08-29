@@ -6,7 +6,7 @@ For this project, the goal was to explore data pipelines and how they can be imp
 
 Part 1.1 [Webscraping:](https://github.com/AlexHuntWSU/Stock-Data-ETL/blob/main/ETL_Webscraping.ipynb)
 
-Using the BeautifulSoup package, [data on some of the largest companies](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue) was extracted and uploaded to a DataFrame. This process involved parsing the html of each company which provided additional information, such as their stock symbol, but also introduced a lot of data cleansing issues.
+Using the BeautifulSoup package, [data on some of the largest companies](https://en.wikipedia.org/wiki/List_of_largest_companies_in_the_United_States_by_revenue) was extracted and uploaded to a DataFrame. This process involved parsing the HTML of each company which provided additional information, such as their stock symbol, but also introduced a lot of data cleansing issues.
 
 [Data before cleaning and transformations](https://github.com/AlexHuntWSU/Stock-Data-ETL/blob/main/Webscraped_Data.csv)
 
@@ -14,7 +14,7 @@ Using the BeautifulSoup package, [data on some of the largest companies](https:/
 
 [Financial data after transformations](https://github.com/AlexHuntWSU/Stock-Data-ETL/blob/main/Financials.csv)
 
-This data was uploaded to a DB2 database on IBM Cloud. The main reason behind this choice was that I already had an instance created and it provided enough storage for all of the data
+This data was uploaded to a DB2 database on IBM Cloud. The main reason behind this choice was that I already had an instance created and it provided enough storage for all of the data.
 
 [SQL Script](https://github.com/AlexHuntWSU/Stock-Data-ETL/blob/main/Stock_DataTables.sql)
 
