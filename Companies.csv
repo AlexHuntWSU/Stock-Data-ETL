@@ -1,0 +1,91 @@
+﻿STOCK_SYMBOL,COMPANY_NAME,INDUSTRY_1,INDUSTRY_2,CITY,STATE,ACTIVE_IND
+WMT,Walmart,Retail,,Bentonville,AR,N
+AMZN,Amazon,Retail,Cloud Computing,Seattle,WA,Y
+AAPL,Apple,Electronics Industry,,Cupertino,CA,Y
+CVS,Cvs Health,Healthcare,,Woonsocket,RI,N
+UNH,Unitedhealth Group,Healthcare,,Minnetonka,MN,Y
+XOM,Exxon Mobil,Petroleum Industry,,Irving,TX,N
+BRK.A,Berkshire Hathaway,Conglomerate,,Omaha,NE,Y
+GOOGL,Alphabet,Technology,,Mountain View,CA,Y
+MCK,Mckesson Corporation,Healthcare,,Irving,TX,N
+ABC,Amerisourcebergen,Pharmaceutical Industry,,Chesterbrook,PA,N
+MSFT,Microsoft,Technology,,Redmond,WA,Y
+COST,Costco,Retail,,Issaquah,WA,N
+CI,Cigna,Health Insurance,,Bloomfield,CT,N
+T,At&T,Conglomerate,,Dallas,TX,Y
+CAH,Cardinal Health,Healthcare,,Dublin,OH,N
+CVX,Chevron Corporation,Petroleum Industry,,San Ramon,CA,N
+HD,The Home Depot,Retail,,Atlanta,GA,N
+WBA,Walgreens Boots Alliance,Pharmaceutical Industry,,Deerfield,IL,N
+MPC,Marathon Petroleum,Petroleum Industry,,Findlay,OH,N
+ELV,Elevance Health,Healthcare,,Indianapolis,IN,N
+KR,Kroger,Retail,,Cincinnati,OH,N
+F,Ford Motor Company,Automotive Industry,,Dearborn,MI,Y
+VZ,Verizon Communications,Telecommunications,,New York City,NY,N
+JPM,Jpmorgan Chase,Financial Services,,New York City,NY,Y
+GM,General Motors,Automotive,,Detroit,MI,N
+CNC,Centene,Healthcare,,St. Louis,MO,N
+META,Meta Platforms,Technology,,Menlo Park,CA,N
+CMCSA,Comcast,Telecommunications,,Philadelphia,PA,N
+PSX,Phillips 66,Petroleum Industry,,Houston,TX,N
+VLO,Valero Energy,Petroleum Industry,,San Antonio,TX,N
+DELL,Dell Technologies,Technology,,Round Rock,TX,N
+TGT,Target Corporation,Retail,,Minneapolis,MN,N
+FNMA,Fannie Mae,Financials,,Washington,DC,Y
+UPS,United Parcel Service,Transportation,,Atlanta,GA,N
+LOW,Lowes,Retail,,Mooresville,NC,N
+BAC,Bank Of America,Financials,,Charlotte,NC,Y
+JNJ,Johnson & Johnson,Pharmaceutical Industry,,New Brunswick,NJ,Y
+ADM,Archer Daniels Midland,Food Industry,,Chicago,IL,N
+FDX,Fedex,Transportation,,Memphis,TN,N
+HUM,Humana,Health Insurance,,Louisville,KY,N
+WFC,Wells Fargo,Financials,,San Francisco,CA,Y
+PFE,Pfizer,Pharmaceutical Industry,,New York City,NY,Y
+C,Citigroup,Financials,,New York City,NY,Y
+PEP,Pepsico,Beverage,,Purchase,NY,N
+INTC,Intel,Technology,,Santa Clara,CA,Y
+PG,Procter & Gamble,Consumer Products Manufacturing,,Cincinnati,OH,N
+GE,General Electric,Conglomerate,,Boston,MA,N
+IBM,Ibm,Technology,,Armonk,NY,N
+MET,Metlife,Financials,,New York City,NY,N
+PRU,Prudential Financial,Financials,,Newark,NJ,N
+ACI,Albertsons,Retail,,Boise,ID,N
+DIS,The Walt Disney Company,Media,,Burbank,CA,N
+ET,Energy Transfer Partners,Petroleum Industry,,Dallas,TX,N
+LMT,Lockheed Martin,Aerospace,Defense,Bethesda,MD,N
+FMCC,Freddie Mac,Financials,,McLean,VA,N
+GS,Goldman Sachs,Financials,,New York City,NY,Y
+RTX,Raytheon Technologies,Conglomerate,,Waltham,MA,N
+HPQ,Hp,Technology,,Palo Alto,CA,N
+BA,Boeing,Aerospace,Defense,Chicago,IL,N
+MS,Morgan Stanley,Financials,,New York City,NY,N
+HCA,Hca Healthcare,Healthcare,,Nashville,TN,N
+ABBV,Abbvie,Pharmaceutical Industry,,Lake Bluff,IL,N
+TSLA,Tesla,Automotive,Energy,Austin,TX,N
+ALL,Allstate,Insurance,,Northfield Township,IL,N
+AIG,Aig,Insurance,,New York City,NY,N
+BBY,Best Buy,Retail,,Richfield,MN,N
+CHTR,Charter Communications,Telecommunications,,Stamford,CT,N
+SYY,Sysco,Food Service,,Houston,TX,N
+MRK,Merck & Co.,Pharmaceutical Industry,,Kenilworth,NJ,N
+CAT,Caterpillar,Machinery,,Deerfield,IL,N
+CSCO,Cisco,Telecom Hardware Manufacturing,,San Jose,CA,N
+TJX,Tjx,Retail,,Framingham,MA,N
+COP,Conocophillips,Petroleum Industry,,Houston,TX,N
+PGR,Progressive Corporation,Insurance,,Mayfield Village,OH,N
+TSN,Tyson Foods,Food Processing,,Springdale,AR,N
+BMY,Bristol-Myers Squibb,Pharmaceutical Industry,,New York City,NY,N
+NKE,Nike,Apparel,,Beaverton,OR,N
+DE,John Deere,Agriculture Manufacturing,,Moline,IL,N
+AXP,American Express,Financial,,New York City,NY,N
+ABT,Abbott Laboratories,Medical Devices,,Chicago,IL,N
+SNEX,Stonex Group,Financials,,New York City,NY,N
+PAA,Plains All American Pipeline,Petroleum Industry,,Houston,TX,N
+EPD,Enterprise Products,Petroleum Industry,,Houston,TX,N
+ORCL,Oracle Corporation,Software,,Austin,TX,N
+TMO,Thermo Fisher Scientific,Laboratory Instruments,,Waltham,MA,N
+KO,Coca-Cola Company,Beverages,,Atlanta,GA,N
+GD,General Dynamics,Airspace,Defense,Reston,VA,N
+CHSCP,Chs,Agriculture Cooperative,,Inver Grove Heights,MN,N
+NUE,Nucor,Metals,,Charlotte,NC,N
+EXC,Exelon,Electrical Power,,Chicago,IL,N
